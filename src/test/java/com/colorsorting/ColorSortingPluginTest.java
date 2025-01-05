@@ -1,5 +1,7 @@
 package com.colorsorting;
 
+import com.colorsorting.ColorSortingPlugin;
+
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
